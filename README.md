@@ -1,4 +1,15 @@
 # Ng7ChartJs
+In  this tutorial  i tried to explain how to integrate chart js in angular 7.
+Watch till end and you will understand chart js in angular.
+Here is the command to use chart js in angular
+
+npm install chart.js --save
+
+We have implemented linechart in angular.
+Bar chart in Angular
+Pie chart in angular.
+This is the easiest way to implement chart js in angular.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
