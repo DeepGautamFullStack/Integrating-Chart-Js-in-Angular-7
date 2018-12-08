@@ -10,6 +10,10 @@ Bar chart in Angular
 Pie chart in angular.
 This is the easiest way to implement chart js in angular.
 
+Here is the video link..
+
+https://www.youtube.com/watch?v=qjGsK5QB6uc&feature=youtu.be
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.5.
 
